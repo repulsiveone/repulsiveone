@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img src="https://github.com/user-attachments/assets/e3f4aa93-03f4-4036-b9e0-90144c03cd94" width="100%">
 
 <!--
 **repulsiveone/repulsiveone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
