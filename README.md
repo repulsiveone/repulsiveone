@@ -30,8 +30,8 @@ Passionate about building robust backend systems with Python and exploring the a
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repulsiveone&layout=donut&hide_border=true)](https://github.com/repulsiveone/github-readme-stats)
     </div>
       </td>
-      <td width="45%" style="border: none; padding: 10px;">
-        <img src="https://github.com/user-attachments/assets/a480c92c-9755-4aff-b25f-9e5d1bca72df" alt="cv" width="100%"/>
+      <td width="45%">
+        <img src="https://github.com/user-attachments/assets/a480c92c-9755-4aff-b25f-9e5d1bca72df" alt="cv" width="100%" height="100%"/>
       </td>
     </tr>
   </table>
@@ -64,6 +64,6 @@ Passionate about building robust backend systems with Python and exploring the a
 
 <p align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=repulsiveone&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=repulsiveone&theme=dark&hide_border=true&card_width=400)](https://git.io/streak-stats)
   [![repulsiveone's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=repulsiveone&theme=Dark)](https://github.com/repulsiveone/leetcode-stats)
 </p>
