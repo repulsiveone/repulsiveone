@@ -20,11 +20,6 @@ Passionate about building robust backend systems with Python and exploring the a
         <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,postman,docker,git" width="80%"/>
       </a>
     </div>
-    <h2>📫 How to reach me:</h2>
-      <div align="center">
-  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/repulsive0ne)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:objectofhatreddd@gmail.com)
-    </div>
     <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repulsiveone&layout=donut&hide_border=true)](https://github.com/repulsiveone/github-readme-stats)
@@ -64,6 +59,12 @@ Passionate about building robust backend systems with Python and exploring the a
 
 <p align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=repulsiveone&theme=dark&hide_border=true&card_width=400)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=repulsiveone&theme=dark&hide_border=true&card_width=300)](https://git.io/streak-stats)
   [![repulsiveone's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=repulsiveone&theme=Dark)](https://github.com/repulsiveone/leetcode-stats)
 </p>
+<h2 align="center">📫 How to reach me:</h2>
+      <div align="center">
+	      
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/repulsive0ne)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:objectofhatreddd@gmail.com)
+    </div>
