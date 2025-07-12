@@ -1,8 +1,8 @@
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td width="55%" valign="top">
-      <h1>💻 About Me</h1>
+<table>
+  <tr>
+    <td width="60%">
+     <h1>💻 About Me</h1>
       
 👋 Hi there! I'm a Backend Developer and Tech Enthusiast.
 Passionate about building robust backend systems with Python and exploring the art of software architecture.
@@ -24,13 +24,12 @@ Passionate about building robust backend systems with Python and exploring the a
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repulsiveone&layout=donut&hide_border=true)](https://github.com/repulsiveone/github-readme-stats)
     </div>
-      </td>
-      <td width="45%">
-        <img src="https://github.com/user-attachments/assets/a480c92c-9755-4aff-b25f-9e5d1bca72df" alt="cv" width="100%" height="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/user-attachments/assets/a480c92c-9755-4aff-b25f-9e5d1bca72df" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://github.com/user-attachments/assets/55bd6ba8-9d02-4580-a8e7-a020fc734a5e" style="width:100%; height:260px; object-fit:cover; margin-bottom:1rem;">
